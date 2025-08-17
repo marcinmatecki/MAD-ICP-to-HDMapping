@@ -34,7 +34,7 @@ Changes:
 Create new config file:
 
 ```shell
-code ./.local/lib/python3.10/site-packages/mad_icp/configurations/datasets/
+code  ~/.local/lib/python3.10/python3.10/site-packages/mad_icp/configurations/datasets/
 ```
 
 Create a new file named
@@ -58,5 +58,5 @@ lidar_to_base:
 
 Run MAD-ICP
 ```shell
-./.local/bin/mad_icp --data-path {path_for_rosbag2} --estimate-path {path_for_output} --dataset-config .local/lib/python3.10/site-packages/mad_icp/configurations/datasets/ntu-viral.cfg
+~/.local/bin/mad_icp --data-path {path_for_rosbag2} --estimate-path {path_for_output} --dataset-config .local/lib/python3.10/site-packages/mad_icp/configurations/datasets/ntu-viral.cfg
 ```
