@@ -1,0 +1,3 @@
+[submodule "src/mad-icp"]
+	path = src/mad-icp
+	url = https://github.com/rvp-group/mad-icp.git
