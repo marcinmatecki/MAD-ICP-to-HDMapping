@@ -37,7 +37,7 @@ Create new config file:
 code ./.local/lib/python3.10/site-packages/mad_icp/configurations/datasets/
 ```
 
-CreatCreate a new file named
+Create a new file named
 ```shell
 ntu-viral.cfg
 ```
