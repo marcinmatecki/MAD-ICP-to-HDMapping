@@ -60,6 +60,3 @@ Run MAD-ICP
 ```shell
 ./.local/bin/mad_icp --data-path {path_for_rosbag2} --estimate-path {path_for_output} --dataset-config .local/lib/python3.10/site-packages/mad_icp/configurations/datasets/ntu-viral.cfg
 ```
-
-# MAD-ICP-to-HDMapping
-# MAD-ICP-to-HDMapping
